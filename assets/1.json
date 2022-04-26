@@ -1,0 +1,19 @@
+{
+    "name": "boruto",
+    "symbol": "NA",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2Q5LehGN4Am4QxftjRyMcCr7EZjdd9JN4nmcytSTvyjV",
+          "share": 100
+        }
+      ]
+    }
+  }
