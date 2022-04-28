@@ -388,7 +388,7 @@ const CandyMachine = ({ walletAddress }) => {
     return [];
   };
 
-  return (
+  /* return (
     // Only show this if machineStats is available
     candyMachine && (
       <div className="machine-container">
@@ -397,6 +397,24 @@ const CandyMachine = ({ walletAddress }) => {
         <button className="cta-button mint-button" onClick={mintToken}>
             Mint NFT
         </button>
+      </div>
+    )
+  ); */
+  return (
+    candyMachine && candyMachine.state && (
+      <div className="machine-container">
+        <p>{`Items Minted: ${candyMachine.state.itemsRedeemed} / ${candyMachine.state.itemsAvailable}`}</p>
+          {/* Check to see if these properties are equal! */}
+          {candyMachine.state.itemsRedeemed === candyMachine.state.itemsAvailable ? (
+            <><p className="sub-text">Sold Out 🙊</p><p>Here are the NFTs you missed</p></>
+          ) : (
+            <button
+              className="cta-button mint-button"
+              onClick={mintToken}
+            >
+              Mint NFT
+            </button>
+          )}
       </div>
     )
   );
