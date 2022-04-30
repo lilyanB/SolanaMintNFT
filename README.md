@@ -1,7 +1,17 @@
 # perso
 Lilyan
+
 i use metaplex: https://www.metaplex.com/
 
+i use pinata: https://www.pinata.cloud/
+
+You can see this website: http://solana-mint-nft.vercel.app/
+
+My public Key : 0xc6cE5054085081b91AABfDf44B8F50CE6c6F6FfD
+
+My public Key : https://twnxcqdk.r.us-east-1.awstrack.me/L0/https:%2F%2Fpolygonscan.com%2Faddress%2F0xc6cE5054085081b91AABfDf44B8F50CE6c6F6FfD%23tokentxnsErc721/1/02000000s30tfslg-nmki06j9-fpnj-71hr-sr8b-53ae4phvep00-000000/TyR_4SqmA_EMs_C6fF_zvzjNY7A=268
+
+My NFT(given when the project is completed) : https://twnxcqdk.r.us-east-1.awstrack.me/L0/https:%2F%2Ftokens.buildspace.so%2Fassets%2FCH74aae12c-b21b-4762-ae95-13db0f084476-77%2Frender.mp4/1/02000000s30tfslg-nmki06j9-fpnj-71hr-sr8b-53ae4phvep00-000000/S0kq-nMz0UODWxzgFNxub13M2zw=268
 
 ## requierement
 git Installation
